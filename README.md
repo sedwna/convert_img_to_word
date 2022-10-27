@@ -1,1 +1,1 @@
-# convert_img_to_word
+# convert_img_to_text
