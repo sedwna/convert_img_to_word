@@ -66,13 +66,6 @@ This is a test.
 
 - **Image Quality**: The accuracy of the OCR depends on the quality of the input image. Ensure the image is clear and the text is legible for best results.
 
-## License
-
-This script is open-source and available under the MIT License. Feel free to modify and distribute it as needed.
-
-## Author
-
-[Your Name]
 
 ## Acknowledgments
 
@@ -81,5 +74,3 @@ This script is open-source and available under the MIT License. Feel free to mod
 - [Pillow](https://python-pillow.org/)
 
 ---
-
-Feel free to customize this README to better fit your project and include any additional information you think is necessary.
